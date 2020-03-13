@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+hi guys
+
+i like coding in discord.js
